@@ -1,4 +1,4 @@
-# Emma-chan
+# Emma-chan  <a href="https://discord.gg/PYRc5NC7H8"><img src="https://img.shields.io/discord/593119549080207361?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 An open-source music bot to replace with Groovy! 
 I developed this bot to in memory of Groovy <3. R.I.P. Groovy!
 
